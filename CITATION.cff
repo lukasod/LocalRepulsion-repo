@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: LocalRepulsion
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Antti
+    family-names: Haimi
+  - given-names: Lukas
+    family-names: Odelius
+  - given-names: José Luis
+    family-names: Romero
+repository-code: 'https://github.com/lukasod/LocalRepulsion-repo'
+license: GPL-3.0
+date-released: '2025-10-22'
